@@ -2,7 +2,7 @@
   "guildName": "Blue Sun Syndicate",
   "title": "BSS Raid Analysis",
   "description": "Guild Raid Analytics for Star Wars: Galaxy of Heroes",
-  "logo": "guild-logo.png",
+  "logo": "bss_logo.png",
   "theme": {
     "primaryColor": "#00d4ff",
     "accentColor": "#ffd700"
